@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\":"App"
+        },
+
+        "files": [
+            "config.php"
+        ]
+    },
+    "name": "user/api_rest",
+    "minimum-stability": "stable",
+    "require": {}
+}
